@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Phitchawat Lukkanathiti, Platform Engineer Intern, Bangkok, Thailand. (April - November 2021)
+- 👀 I’m interested in cybersecurity, HPC, cloud computing, robotics.
+- 🌱 I’m currently learning quantum computing.
+- 📫 How to reach me is go to [phitchaw.at](https://phitchaw.at) or contact me via email me@phitchaw.at 😀
